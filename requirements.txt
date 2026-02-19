@@ -1,5 +1,5 @@
-Flask==3.0.2
-python-dotenv==1.0.1
-supabase==2.3.3
-cloudinary==1.40.0
-python-multipart==0.0.9
+Flask==2.3.3
+python-dotenv==1.0.0
+supabase==1.2.0
+cloudinary==1.36.0
+gunicorn==21.2.0
