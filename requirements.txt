@@ -3,3 +3,4 @@ python-dotenv
 supabase
 cloudinary
 gunicorn
+flask_cors
