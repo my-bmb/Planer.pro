@@ -1,6 +1,7 @@
-Flask
-python-dotenv
-supabase
-cloudinary
-gunicorn
-flask_cors
+Flask==2.3.3
+Flask-CORS==4.0.0
+python-dotenv==1.0.0
+supabase==1.2.0
+cloudinary==1.36.0
+requests==2.31.0
+Werkzeug==2.3.7
